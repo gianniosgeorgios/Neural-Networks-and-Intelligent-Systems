@@ -57,4 +57,4 @@ Fine tuning using PipeLine, GridSearch and Cross Validation techniques. The step
 
 ### Results:
 
-The accuracy we achieved was 92%. 
+The accuracy we achieved was 90% using SVM with polynomial kernel.
