@@ -1,5 +1,7 @@
 # Reinforcement Learning to improve agent's reward on popular ATARI games
 
+![aaaa](https://user-images.githubusercontent.com/50829499/111370560-0f54bb80-86a1-11eb-8f79-ff54074c2411.jpg)
+
 ## App Description 
 
 The main purpose of this excerise, was to make computer capable of human-level performance on a classic Atari 2600 game "MsPacman". Just like a human, the algorithm played based on its vision of the screen. Starting from scratch, 
