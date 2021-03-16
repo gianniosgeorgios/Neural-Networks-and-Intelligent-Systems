@@ -43,7 +43,7 @@ Finally, after hours of training, with optimized DQN the agent learned to play a
 
 To watch this video, click here: [Best Computer's performance to MSPacman](https://user-images.githubusercontent.com/50829499/111369399-b0db0d80-869f-11eb-86d4-0bbc6b319cb5.mp4)
 
-Score is around `4.396` (!) and it is really satisfactory since the agent learns to avoid monsters, collect all points and continiues to new stages. 
+Score is around `4.396`, and it is really satisfactory since the agent learns to avoid monsters, collect all points and continiues to new stages. 
 
 
 
