@@ -18,7 +18,7 @@ We compare two scikit-learn classifiers: kNN and Gaussian Naive Bayes (GNB).
 
 ### Optimization:
 
-Fine tuning using PipeLine and GridSearch and Cross Validation techniques. The steps of pipeline were: variance threshold selector, standard scaler, random over sampler and PCA. 
+Fine tuning using PipeLine, GridSearch and Cross Validation techniques. The steps of pipeline were: variance threshold selector, standard scaler, random over sampler and PCA. 
 
 ### Results:
 
