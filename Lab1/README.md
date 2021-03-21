@@ -22,7 +22,7 @@ Fine tuning using PipeLine, GridSearch and Cross Validation techniques. The step
 
 ### Results:
 
-The accuracy we achieved was 92%. 
+The accuracy (after kNN Optimization) we achieved was 92%. 
 
 ## Dataset 2: Statlog (Landsat Satellite) Data Set
 
