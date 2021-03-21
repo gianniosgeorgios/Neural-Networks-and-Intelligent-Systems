@@ -1,5 +1,7 @@
 # Neural-Networks-and-Intelligent-Systems
-Laboratory exercises using advanced software tools for neural network simulation
+A repository for Neural Networks and Intelligent Systems Course (9th Semester, Y Flow) in ECE NTUA
+
+
 
 ### Lab 1: Supervised Learning in UCI Machine Learning Dataset
 
