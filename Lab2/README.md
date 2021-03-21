@@ -10,12 +10,12 @@ This [dataset](http://www.cs.cmu.edu/~ark/personas/) consists of 42,306 movie pl
 
 ### App Description:
 
-First of all we convert dataset to **tf- idf** representation. It is a numerical statistic that is intended to reflect how important a word is to 
+First of all we convert dataset to **tf- idf** representation. It is a numerical statistic, that is intended to reflect how important a word is to 
 a document in a collection or corpus and it is based on tf (term frequency) and idf (inverse document frequency). For better data preprocessing we romove pronouns, articles, intentions, peoples names etc. 
 After that we apply Stemming/Lemmatization. These techiques, in the field of Natural Language Processing, are for Text Normalization. More specifically:
 * **Stemming** is the process of reducing inflection in words 
 to their root forms such as mapping a group of words to the same stem even if the stem itself is not a valid word in the Language, and  
- * **lemmatization** reduces the inflected words properly ensuring that the root word belongs to the language
+ * **lemmatization** is the process of reducing the inflected words properly ensuring that the root word belongs to the language
 
 ### Example Result:
 
