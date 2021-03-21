@@ -6,7 +6,7 @@ Based on what the user likes, this algorithm will simply pick items with similar
 ![1](https://user-images.githubusercontent.com/50829499/111079177-78053200-8501-11eb-90ac-2dbb8ec48a15.png)
 ### Dataset Preview:
 
-This dataset consists of 42,306 movie plot summaries extracted from Wikipedia. 
+This [dataset](http://www.cs.cmu.edu/~ark/personas/) consists of 42,306 movie plot summaries extracted from Wikipedia. 
 
 ### App Description:
 
