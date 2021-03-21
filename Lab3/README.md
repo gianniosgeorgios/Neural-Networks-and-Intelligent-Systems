@@ -18,15 +18,15 @@ These architectures were:<br/> ***VGG-16, EfficientNetB7, ResNet, DenseNet121, X
 
 ### Choosing best model 
 
-We come to the conclution that **DenseNet** model is the best choice . It is needed less training time and memory sources and it succeeds high accuracy (~ 77 %).
+We come to the conclution that **DenseNet** model is the best choice . It needs less training time and memory sources and it succeeds high accuracy (~ 77 %).
 
 ### Optimizing best model 
 
 For opotimizing DenseNet model we follow some steps:
 
-1. *Resize input images' shape*: For bigger imput shape accuracy is improving, but RAM usage is increased
-2. *Data augmentation*:  We increase the amount of data by adding slightly modified copies of already existing data so as to avoid overfiting
-3. *Fine tuning*: Since we have a large dataset, there is no reason to train only the head of the network 
+1. *Resize input images' shape*: For bigger imput shape accuracy is improving, but RAM usage is increased.
+2. *Data augmentation*:  We increase the amount of data by adding slightly modified copies of already existing data so as to avoid overfiting.
+3. *Fine tuning*: Since we have a large dataset, there is no reason to train only the head of the network. 
 4. *Adding dropout layers*: It was neccesary since some paths in our network represent noise. So we cancel them using dropout layers.
 5. *Early stopping techinques*: During the learning proccess, if the validation accuracy does not improve, we stop learning.
 6. Experimentation with learning rate, batch size and different opotimizers
