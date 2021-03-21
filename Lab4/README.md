@@ -26,9 +26,9 @@ Of course, each environment defines a different problem (total 6) we want to opt
 
 We compare three different algorithms:
 
-1.Deep Q-Network (DQN)
-2.Policy Optimization (PPO)
-3.Actor Critic (A2C)
+1. Deep Q-Network (DQN)
+2. Policy Optimization (PPO)
+3. Actor Critic (A2C)
 
 ## Optimizing
 
